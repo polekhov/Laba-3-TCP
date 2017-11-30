@@ -1,0 +1,13 @@
+C:\Users\Дмитрий\Desktop\Лабораторные работы по СТ\lab_3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Дмитрий\Desktop\Лабораторные работы по СТ\lab_3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Дмитрий\Desktop\Лабораторные работы по СТ\lab_3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Дмитрий\Desktop\Лабораторные работы по СТ\lab_3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Лабораторные работы по СТ\lab_3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Дмитрий\Desktop\Лабораторные работы по СТ\lab_3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Nick\Desktop\Laba-3-TCP-master\Лабораторная работа 3\server\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Nick\Desktop\Laba-3-TCP-master\Лабораторная работа 3\server\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Nick\Desktop\Laba-3-TCP-master\Лабораторная работа 3\server\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Nick\Desktop\Laba-3-TCP-master\Лабораторная работа 3\server\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Laba-3-TCP-master\Лабораторная работа 3\server\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\Laba-3-TCP-master\Лабораторная работа 3\server\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Nick\Desktop\Laba-3-TCP-master\Лабораторная работа 3\server\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
